@@ -11,3 +11,4 @@ Default editor is VIM
 -save
 jjsjsj
 - git checkout branch
+- git remote add
