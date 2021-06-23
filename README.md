@@ -12,3 +12,4 @@ Default editor is VIM
 jjsjsj
 - git checkout branch
 - git remote add
+- git fetch
