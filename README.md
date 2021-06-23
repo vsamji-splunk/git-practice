@@ -13,3 +13,4 @@ jjsjsj
 - git checkout branch
 - git remote add
 - git fetch
+- git pull command
