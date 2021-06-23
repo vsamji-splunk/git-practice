@@ -10,3 +10,4 @@
 Default editor is VIM
 -save
 jjsjsj
+- git checkout branch
